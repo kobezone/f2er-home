@@ -1,0 +1,25 @@
+{
+  "name": "f2er-home",
+  "version": "0.0.1",
+  "description": "前端工程师的家",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linggan100/f2er-home.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "ideazhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linggan100/f2er-home/issues"
+  },
+  "homepage": "https://github.com/linggan100/f2er-home#readme"
+}
